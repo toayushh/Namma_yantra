@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#246B45</color>
+    <color name="primaryDark">#143B2A</color>
+    <color name="accent">#B66A2C</color>
+    <color name="background">#F6F8F4</color>
+    <color name="card">#FFFFFF</color>
+    <color name="textPrimary">#17211B</color>
+    <color name="textSecondary">#677069</color>
+    <color name="available">#246B45</color>
+    <color name="notAvailable">#D32F2F</color>
+    <color name="soil">#765034</color>
+    <color name="mustard">#C98925</color>
+    <color name="leafSoft">#EAF4EC</color>
+    <color name="skySoft">#E8F1F4</color>
+    <color name="border">#DDE5DC</color>
+    <color name="teal">#1C6B63</color>
+    <color name="danger">#C62828</color>
+    <color name="accepted">#1B5E20</color>
+    <color name="pending">#A66A00</color>
+    <color name="surfaceMuted">#EEF3EC</color>
+    <color name="surfaceWarm">#FFF7E8</color>
+    <color name="outline">#C8D4C7</color>
+</resources>
