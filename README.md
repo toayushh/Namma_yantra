@@ -91,6 +91,21 @@ app/src/main/java/com/example/namma_yantra/
 ### Home Page
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/cca35a6c-1780-457e-af4f-9c7ba234a507" />
 
+### Booking History
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/e59b476b-468d-4903-9394-e101b5d3cc8c" />
+
+### Owner Dashboard
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/205150b0-9f8f-4cf0-a2f3-c54377ac03db" />
+
+### Owner Requests
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/8bfd013e-05f2-490c-bff9-83024d4a007a" />
+
+### List Machine
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/5c404eaf-a1c7-4f16-83c5-6d071304dbcb" />
+
+
+
+
 
 ## License
 
