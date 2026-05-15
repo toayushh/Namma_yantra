@@ -87,7 +87,9 @@ app/src/main/java/com/example/namma_yantra/
 4. Push to the branch
 5. Create a Pull Request
 
-##Images
+## Images
+### Home Page
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/cca35a6c-1780-457e-af4f-9c7ba234a507" />
 
 
 ## License
